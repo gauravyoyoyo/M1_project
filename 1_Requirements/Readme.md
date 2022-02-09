@@ -34,7 +34,15 @@
    |2|Search customer data|
    |3|Delete customer data|
    |4|Display customer data|
-
+   |5|Display the Menu|
+   
+   
+   | LLR |DESCRIPTION|
+   |:----:|:--------------------------------------------------:|
+   |1|Ask for name|
+   |2|Ask for Phone number|
+   |3|Ask Amount |
+   |4|Give feedback after every operation|
 
 
 
