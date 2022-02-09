@@ -20,7 +20,7 @@ int main(){
 		printf("\n 4 : for deleting records.\n 5 : for exit\n");
 
         printf("Enter your choice : ");
-        __fpurge(stdin);
+      //  __fpurge(stdin);
         scanf("%d",&choice);
 
         switch (choice){
@@ -87,7 +87,7 @@ int main(){
                     char name[MAX_NAME_LEN]="";
 
                     printf("\nEnter name of user to search\n");
-                    __fpurge(stdin);
+                    //__fpurge(stdin);
                     get_data(name);
 
                     switch (search_record(name)){

@@ -5,7 +5,7 @@ void get_data(char *name) {
 
   int i = 0, j;
   char c, ch;
-  __fpurge(stdin);
+ // __fpurge(stdin);
   do {
     c = getchar();
     if (c != '\n') {
@@ -28,14 +28,14 @@ void get_data(char *name) {
 
 void get_record_details(record_t *record) {
   printf("\nEnter name: ");
-  __fpurge(stdin);
+ // __fpurge(stdin);
   get_data(record->name);
 
   printf("\nEnter the Phone number: ");
-  __fpurge(stdin);
+  //__fpurge(stdin);
   get_data(record->ph_number);
 
   printf("\nEnter Amount: ");
-  __fpurge(stdin);
+  //__fpurge(stdin);
   get_data(record->amount);
 }
