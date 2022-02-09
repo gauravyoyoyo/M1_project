@@ -1,5 +1,5 @@
 #include "telecom_billing.h"
-
+#include <stdarg.h>
 typedef enum options {
     ADD_RECORD,
     DELETE_RECORD,
@@ -9,7 +9,7 @@ typedef enum options {
 }options_t;
 
 int main(){
-    int choice=NONE;
+    int choice;
 
     printf("\n\t  WELCOME TO TELEPHONE BILLING SYSTEM    \n");
     for(;;){
@@ -63,7 +63,7 @@ int main(){
                             printf("\n\tERROR\n");
                     }
                 }
-                else if(contact_count ==0 ){
+                else if(record_count ==0 ){
                     printf("\n\t No record found\n");
                 }
                 break;

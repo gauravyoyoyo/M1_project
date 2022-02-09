@@ -28,7 +28,8 @@ int delete_record(const char *name) {
       if (flag != 1) {
         remove("temp.bin");
         result = -1;
-      } else {
+      } 
+      else {
         remove("records.bin");
         rename("temp.bin", "records.bin");
         result = 0;
