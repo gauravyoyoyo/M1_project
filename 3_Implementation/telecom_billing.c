@@ -13,11 +13,12 @@ int main(){
 
     printf("\n\t  WELCOME TO TELEPHONE BILLING SYSTEM    \n");
     for(;;){
-        printf("\nSelect the option\n");
+        printf("\n     Select the option\n");
         printf("\n 1 : for adding new records.\n ");
 		printf("\n 2 : for displaying records. \n");
 		printf("\n 3 : for searching records.\n");
-		printf("\n 4 : for deleting records.\n 5 : for exit\n");
+		printf("\n 4 : for deleting records.\n ");
+        printf("\n 5 : for exit.\n");
 
         printf("Enter your choice : ");
       //  __fpurge(stdin);
