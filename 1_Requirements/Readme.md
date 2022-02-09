@@ -27,7 +27,13 @@
 
 
 ## REQURIMENTS
-
+   
+   | HLR |DESCRIPTION|
+   |:----:|:--------------------------------------------------:|
+   |1|Add new customer data|
+   |2|Search customer data|
+   |3|Delete customer data|
+   |4|Display customer data|
 
 
 
