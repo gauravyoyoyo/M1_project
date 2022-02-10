@@ -1,30 +1,55 @@
-TELEPHONE BILLING SYSTEM 
+
+## SWOT ANALYSIS
+
+  ### STRENGTH
+      - Easy to use interface and the robustness of the system.
+      - Reduce the default payment cases.
+      - Easy to excess.
+      - User Friendly
+  ### WEAKENESSES
+      - Maintenance cost
+      - High Operation cost
+      - Require regular updations
+  ### OPPORTUNITIES
+      - Integrate other services to same platform
+      - Automation
+  ### THREATS
+     - Other Big players in market
 
 
- #INTRODUCTION 
-    In this project I have tried to design a system in which customer can pay their telephone bills .
-    when customer comes to the interface the program ask to choose the option they want to use
-    and perform some functions like adding records , deleting records and listing all the saved records in the system.
-    
-    
- #SWOT ANALYSIS
+## 4W's & 1H
+
+   - WHAT: Telecom Billing system
+   - WHEN: TO pay the bills
+   - WHERE: In Telecom sector
+   - WHY: To improve old system
+   - HOW: To provide an interface for payment
+
+
+## REQURIMENTS
    
-     *STRENGTH
-       Easy to use interface and the robustness of the system
-     
-     *WEAKNESS
-       Only perform some basics operation like adding deleting and displaying records
-       
-     *OPPORTUNITY
-       can include more funcationality like pre-paid and post-paid services
-       
-     *THREATS
-       Other compitetors has advance systems for the same operation
-       
-       
- #REQURIMENTS
-    
-      * HIGH LEVEL REQURIMENTS
-        
+   | HLR |DESCRIPTION|
+   |:----:|:--------------------------------------------------:|
+   |1|Add new customer data|
+   |2|Search customer data|
+   |3|Delete customer data|
+   |4|Display customer data|
+   |5|Display the Menu|
+   
+   
+   | LLR |DESCRIPTION|
+   |:----:|:--------------------------------------------------:|
+   |1|Ask for name|
+   |2|Ask for Phone number|
+   |3|Ask Amount |
+   |4|Give feedback after every operation|
+
+
+
+ 
+
+  
+
+
          
   
