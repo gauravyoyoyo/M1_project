@@ -28,6 +28,8 @@
 
 ## REQURIMENTS
    
+   ### High Level Requriment
+   
    | HLR |DESCRIPTION|
    |:----:|:--------------------------------------------------:|
    |1|Add new customer data|
@@ -36,6 +38,7 @@
    |4|Display customer data|
    |5|Display the Menu|
    
+   ### Low Level Requriment
    
    | LLR |DESCRIPTION|
    |:----:|:--------------------------------------------------:|
