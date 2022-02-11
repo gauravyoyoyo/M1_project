@@ -51,3 +51,5 @@
    |3|Ask Amount |
    |4|Give feedback after every operation|
 
+![1](https://user-images.githubusercontent.com/57553580/153542241-4ff59d35-820b-4cf9-83db-92aeba5ebdec.jpg)
+![1](https://user-images.githubusercontent.com/57553580/153542246-a061917d-92f7-4dcd-b86b-5cfc667c59fb.jpg)
