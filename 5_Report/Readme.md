@@ -1,3 +1,4 @@
+
 # Report
 
 ## Introduction
@@ -51,5 +52,12 @@
    |3|Ask Amount |
    |4|Give feedback after every operation|
 
+## Architecture
+
+### Behavioural Design
 ![1](https://user-images.githubusercontent.com/57553580/153542241-4ff59d35-820b-4cf9-83db-92aeba5ebdec.jpg)
 ![1](https://user-images.githubusercontent.com/57553580/153542246-a061917d-92f7-4dcd-b86b-5cfc667c59fb.jpg)
+
+### Structural Design
+![3](https://user-images.githubusercontent.com/57553580/153542307-cce62d15-db4e-4abc-b435-2bb8f93719e0.jpg)
+![4](https://user-images.githubusercontent.com/57553580/153542314-8f84c8ca-4eb4-4134-b3f3-545aada2a0d3.jpg)
