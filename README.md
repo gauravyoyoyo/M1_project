@@ -13,3 +13,6 @@
 
 ![code quality score](https://api.codiga.io/project/31099/score/svg)
 
+## Code Grade
+
+![code quality score](https://api.codiga.io/project/31099/status/svg)
