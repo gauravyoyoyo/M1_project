@@ -16,3 +16,7 @@
 ## Code Grade
 
 ![code quality score](https://api.codiga.io/project/31099/status/svg)
+
+## Codeac
+
+![Codeac](https://static.codeac.io/badges/2-455226134.svg "Codeac")
