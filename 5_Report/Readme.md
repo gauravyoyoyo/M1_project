@@ -67,7 +67,7 @@
 
 ## Test Plan and Output
 
-### High Level Requriments
+### High Level Test Plan
 
 |Test ID |HLR|Description|Inputs|Expexted O/P| Actual O/P|
 |:-------:|:--------|:------------------------------------|:---------|:-----------|:-----------|
@@ -76,7 +76,7 @@
 |TD03|HLR03|searching subscriber data|Choice|sucess|sucess|
 |TD04|HLR04|Displaying subscriber data|Choice|sucess|sucess|
 
-### Low Level Requriments
+### Low Level Test Plan
 
 |Test ID |LLR|Description|Inputs|Expexted O/P| Actual O/P|
 |:-------:|:--------|:------------------------------------|:---------|:-----------|:-----------|
