@@ -40,20 +40,20 @@
    
    | HLR |DESCRIPTION|
    |:----:|:--------------------------------------------------:|
-   |1|Add new customer data|
-   |2|Search customer data|
-   |3|Delete customer data|
-   |4|Display customer data|
-   |5|Display the Menu|
+   |1|the System should add new customer data|
+   |2|user should search customer data|
+   |3|user should delete customer data|
+   |4|the system must display customer data|
+   |5|the system must display the Menu|
    
    ### Low Level Requriment
    
    | LLR |DESCRIPTION|
    |:----:|:--------------------------------------------------:|
-   |1|Ask for name|
-   |2|Ask for Phone number|
-   |3|Ask Amount |
-   |4|Give feedback after every operation|
+   |1|The system should ask for name|
+   |2|The system should ask for Phone number|
+   |3|The system should ask Amount |
+   |4|The system should give feedback after every operation|
 
 ## Architecture
 
